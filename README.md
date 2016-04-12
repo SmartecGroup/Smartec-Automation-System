@@ -1,2 +1,3 @@
 # Smartec-Automation-System
-Hellow
+Hello
+
